@@ -9,7 +9,7 @@
 - More than 512 MB
 - Less than 512 MB
 
-  <details>
+<details>
     <summary>Click here for the solution</summary>
       <ul>
         <li>The string "Foo"</li>
