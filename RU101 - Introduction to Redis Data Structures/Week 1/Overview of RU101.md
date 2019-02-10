@@ -7,6 +7,7 @@
 - Key value store
 - Database that supports native SQL
 - An open source database project
+
   <details>
     <summary>Click here for the solution</summary>
       <ul>
